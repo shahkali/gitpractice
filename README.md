@@ -1,2 +1,2 @@
 # gitpractice
-Playing with git
+Playing with git is good
